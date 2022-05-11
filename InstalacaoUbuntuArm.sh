@@ -31,11 +31,11 @@ curl -fsSL get.docker.com | sh
 
 sleep 2
 
-wget https://github.com/diego780705/HomeAssistant/raw/a13052d267deeccb6814d47d5f6570ba9536f4e0/os-agent_1.2.2_linux_x86_64.deb
+wget https://github.com/diego780705/HomeAssistantArm/raw/416c2e50de8ca7f2d1ec74cc345a08918f3f456d/os-agent_1.2.2_linux_armv7.deb
 
 sleep 2
 
-dpkg -i os-agent_1.2.2_linux_x86_64.deb
+dpkg -i os-agent_1.2.2_linux_armv7.deb
 
 sleep 2
 
